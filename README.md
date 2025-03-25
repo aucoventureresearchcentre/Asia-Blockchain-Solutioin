@@ -54,5 +54,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Support
 
 For support and inquiries, please contact:
-- Email: support@asianblockchain.example.com
-- Website: https://asianblockchain.example.com
+- Email: aucoventure@gmail.com
+- Website: https://www.aucoventure.com
